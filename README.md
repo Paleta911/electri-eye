@@ -86,12 +86,24 @@ ng serve -o
 
 ## 📸 Capturas
 
-- ![Login](./screenshots/login.png)
-- ![Dashboard](./screenshots/dashboard.png)
-- ![Cámaras](./screenshots/cameras.png)
-- ![Asistencia](./screenshots/asistencia.png)
-- ![Detecciones](./screenshots/detecciones.png)
-- ![Panel](./screenshots/panel.png)
+### Login  
+![Login](./screenshots/login.png)
+
+### Dashboard  
+![Dashboard](./screenshots/dashboard.png)
+
+### Cámaras  
+![Cámaras](./screenshots/cameras.png)
+
+### Asistencia  
+![Asistencia](./screenshots/asistencia.png)
+
+### Detecciones  
+![Detecciones](./screenshots/detecciones.png)
+
+### Panel  
+![Panel](./screenshots/panel.png)
+
 ---
 
 ## 🤝 Contribución
