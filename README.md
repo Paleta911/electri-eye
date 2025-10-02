@@ -90,7 +90,9 @@ Guarda las imágenes en `./screenshots` y referéncialas así:
 - ![Login](./screenshots/login.png)
 - ![Dashboard](./screenshots/dashboard.png)
 - ![Cámaras](./screenshots/cameras.png)
-
+- ![Asistencia](./screenshots/asistencia.png)
+- ![Detecciones](./screenshots/detecciones.png)
+- ![Panel](./screenshots/panel.png)
 ---
 
 ## 🤝 Contribución
