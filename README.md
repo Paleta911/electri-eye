@@ -85,7 +85,6 @@ ng serve -o
 ---
 
 ## 📸 Capturas
-Guarda las imágenes en `./screenshots` y referéncialas así:
 
 - ![Login](./screenshots/login.png)
 - ![Dashboard](./screenshots/dashboard.png)
