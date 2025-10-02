@@ -1,0 +1,32 @@
+# ---- Node.js (Backend) ----
+Backend/node_modules/
+Backend/.env
+Backend/npm-debug.log
+Backend/yarn-error.log
+Backend/dist/
+Backend/coverage/
+
+# ---- Angular (Frontend) ----
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.angular/cache/
+Frontend/.env
+Frontend/coverage/
+
+# ---- IDEs / Editores ----
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ---- Sistema operativo ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs ----
+*.log
+logs/
+
+# ---- Archivos comprimidos ----
+*.rar
+*.zip
